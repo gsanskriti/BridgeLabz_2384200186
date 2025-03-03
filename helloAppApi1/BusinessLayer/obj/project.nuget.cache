@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "AbGM5ZYD7zayHmMjRdCZg1GGXWlY/GVLo1g7bx/Qph0IVJ01UXuoDbcbrm2U5ZLlAqZi8SSpyjBbHrUMTsu7Ng==",
+  "success": false,
+  "projectFilePath": "/Users/swapnilgupta/Documents/cg training/helloAppApi 2/BusinessLayer/BusinessLayer.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for '/Users/swapnilgupta/Documents/cg training/helloAppApi 2/ModelLayer/ModelLayer.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "/Users/swapnilgupta/Documents/cg training/helloAppApi 2/ModelLayer/ModelLayer.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for '/Users/swapnilgupta/Documents/cg training/helloAppApi 2/RepositoryLayer/RepositoryLayer.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "/Users/swapnilgupta/Documents/cg training/helloAppApi 2/RepositoryLayer/RepositoryLayer.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
