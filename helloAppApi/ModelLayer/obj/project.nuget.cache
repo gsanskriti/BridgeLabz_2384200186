@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxMqiGUOups=",
+  "success": true,
+  "projectFilePath": "/Users/swapnilgupta/Documents/cg training/helloAppApi/ModelLayer/ModelLayer.csproj",
+  "expectedPackageFiles": [
+    "/Users/swapnilgupta/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/swapnilgupta/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
